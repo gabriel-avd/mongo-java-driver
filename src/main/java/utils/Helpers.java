@@ -1,3 +1,5 @@
+package utils;
+
 import org.bson.Document;
 import org.bson.codecs.DocumentCodec;
 import org.bson.codecs.EncoderContext;
